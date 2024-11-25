@@ -24,6 +24,5 @@ let package = Package(
         .target(
             name: "CollectionAndTableViewCompatible",
             dependencies: []),
-    ],
-    swiftLanguageVersions: [.v4, .v4_2, .v5]
+    ]
 )
